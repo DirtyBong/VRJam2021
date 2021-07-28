@@ -31,3 +31,4 @@ The following tutorial will also work and includes a GUI, but needs additional s
 * ninjafella
 * Nourek
 * DoctorBambi (Aka JonathanMcA)
+* DirtyBong (AKA imtrash)
